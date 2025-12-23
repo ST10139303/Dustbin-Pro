@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_dustbinpro"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/bookCleaningButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/book_a_cleaning"
+        android:backgroundTint="#008577"
+        android:textColor="@android:color/white"
+        />
+
+    <Button
+        android:id="@+id/makePaymentButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Make_a_payment"
+        android:backgroundTint="#008577"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="16dp"
+        />
+
+
+    <Button
+        android:id="@+id/paymentHistoryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/view_payment_history"
+        android:backgroundTint="#008577"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:layout_marginTop="20dp" />
+</LinearLayout>
+
