@@ -1,0 +1,40 @@
+com.example.dustbinpro.test.app-savedstate-ktx-1.2.1-0 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\07ba6b681c85cc8de6e7edbf4026d881\transformed\savedstate-ktx-1.2.1\res
+com.example.dustbinpro.test.app-ui-util-release-1 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\1c25daa928b4c29cc040c19ebb99c9d4\transformed\ui-util-release\res
+com.example.dustbinpro.test.app-ui-text-release-2 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\1c56591343ed526b1550f8bacfb1d82f\transformed\ui-text-release\res
+com.example.dustbinpro.test.app-activity-ktx-1.10.1-3 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\235e244785e0ae91fdccc8e77c8cd1ac\transformed\activity-ktx-1.10.1\res
+com.example.dustbinpro.test.app-profileinstaller-1.4.0-4 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\325c232261b9910bbaf25d11553911e1\transformed\profileinstaller-1.4.0\res
+com.example.dustbinpro.test.app-startup-runtime-1.1.1-5 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\33be38b7958fae753c395b989f26347a\transformed\startup-runtime-1.1.1\res
+com.example.dustbinpro.test.app-savedstate-1.2.1-6 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\35d23d087701c64cdba62d49371d9b09\transformed\savedstate-1.2.1\res
+com.example.dustbinpro.test.app-lifecycle-viewmodel-ktx-2.8.7-7 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\3ae89b85272e50126137139f87e18c98\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.dustbinpro.test.app-core-1.6.1-8 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\3fd2db4d147921e9392400280c87430d\transformed\core-1.6.1\res
+com.example.dustbinpro.test.app-core-viewtree-1.0.0-9 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\5e4299860236860318f654edbf645cc3\transformed\core-viewtree-1.0.0\res
+com.example.dustbinpro.test.app-activity-compose-1.10.1-10 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\630dfdd5569e84e825a8b942c791ee74\transformed\activity-compose-1.10.1\res
+com.example.dustbinpro.test.app-lifecycle-runtime-compose-release-11 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\64cd09a4916c1673a887c73a39e6d473\transformed\lifecycle-runtime-compose-release\res
+com.example.dustbinpro.test.app-ui-graphics-release-12 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\750a00c6758adaa7ca9c713f6761e780\transformed\ui-graphics-release\res
+com.example.dustbinpro.test.app-annotation-experimental-1.4.1-13 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\79190fd78ad142297eb6b927017cd90a\transformed\annotation-experimental-1.4.1\res
+com.example.dustbinpro.test.app-runtime-release-14 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\833d5308b8bd7f00960b9394a542171a\transformed\runtime-release\res
+com.example.dustbinpro.test.app-lifecycle-livedata-core-2.8.7-15 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\88e74349723f66e97e90d8ce2b83ab9e\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.dustbinpro.test.app-ui-unit-release-16 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\8a04c0f714e60ee94b547c05ae3456cd\transformed\ui-unit-release\res
+com.example.dustbinpro.test.app-core-ktx-1.16.0-17 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\92f3cde0967a8110a917c69137f09a10\transformed\core-ktx-1.16.0\res
+com.example.dustbinpro.test.app-graphics-path-1.0.1-18 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\9383b6049ebb64f965588d62c7c2b375\transformed\graphics-path-1.0.1\res
+com.example.dustbinpro.test.app-emoji2-1.3.0-19 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\a7fa5f06b8c96d18dd2e597bf283f7d6\transformed\emoji2-1.3.0\res
+com.example.dustbinpro.test.app-lifecycle-process-2.8.7-20 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\b29a2dec68d92cddef8053c1fccb5eb1\transformed\lifecycle-process-2.8.7\res
+com.example.dustbinpro.test.app-ui-test-release-21 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\b39109a375fb2b0e3f8b354cf3b8fd93\transformed\ui-test-release\res
+com.example.dustbinpro.test.app-customview-poolingcontainer-1.0.0-22 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\b5bf9faabefc425783d5f2ef9ea4d046\transformed\customview-poolingcontainer-1.0.0\res
+com.example.dustbinpro.test.app-ui-test-junit4-release-23 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\bd1dd3f1230464ec1dbd10598cd12027\transformed\ui-test-junit4-release\res
+com.example.dustbinpro.test.app-lifecycle-viewmodel-release-24 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\bde111121fe612dda83ff227a4084689\transformed\lifecycle-viewmodel-release\res
+com.example.dustbinpro.test.app-tracing-1.2.0-25 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\cb2546ef6a54c4dda733a9109b256d05\transformed\tracing-1.2.0\res
+com.example.dustbinpro.test.app-lifecycle-viewmodel-savedstate-2.8.7-26 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\cf5612c254af43bf1f6fc56ae762727f\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.dustbinpro.test.app-core-runtime-2.2.0-27 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\d0928b55ad86c899310b11da951a5ba3\transformed\core-runtime-2.2.0\res
+com.example.dustbinpro.test.app-runtime-saveable-release-28 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\d3b5856e6236cf22526b9881922bb46f\transformed\runtime-saveable-release\res
+com.example.dustbinpro.test.app-lifecycle-runtime-ktx-release-29 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\dee5fda3ce1f1e56eea2d1e63f391258\transformed\lifecycle-runtime-ktx-release\res
+com.example.dustbinpro.test.app-ui-geometry-release-30 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\e1d9247e7bb11e4591c10100937d4073\transformed\ui-geometry-release\res
+com.example.dustbinpro.test.app-activity-1.10.1-31 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\e96a788e8bad975ed344563089604246\transformed\activity-1.10.1\res
+com.example.dustbinpro.test.app-ui-release-32 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\ef51565b9fb80c6a2f68caf535ee3a09\transformed\ui-release\res
+com.example.dustbinpro.test.app-core-1.16.0-33 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\f711620685715a45f9529006143a08a8\transformed\core-1.16.0\res
+com.example.dustbinpro.test.app-lifecycle-runtime-release-34 C:\Users\RC_Student_Lab\.gradle\caches\8.13\transforms\f9489e09bbd7acd38b5922b55009b506\transformed\lifecycle-runtime-release\res
+com.example.dustbinpro.test.app-androidTest-35 C:\Users\RC_Student_Lab\Desktop\MULONGONI  DUSTBIN PRO\app\build\generated\res\resValues\androidTest\debug
+com.example.dustbinpro.test.app-updated_navigation_xml-36 C:\Users\RC_Student_Lab\Desktop\MULONGONI  DUSTBIN PRO\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.dustbinpro.test.app-mergeDebugAndroidTestResources-37 C:\Users\RC_Student_Lab\Desktop\MULONGONI  DUSTBIN PRO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.dustbinpro.test.app-mergeDebugAndroidTestResources-38 C:\Users\RC_Student_Lab\Desktop\MULONGONI  DUSTBIN PRO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.dustbinpro.test.app-debugAndroidTest-39 C:\Users\RC_Student_Lab\Desktop\MULONGONI  DUSTBIN PRO\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
