@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">DustbinPro</string>
+
+    <!-- activity_assign_workers.xml -->
+
+    <!-- activity_customer_list.xml -->
+    <string name="customer_list">Customer List</string>
+
+    <!-- activity_dashboard.xml -->
+    <string name="view_payment_history">View Payment History</string>
+    <string name="logout">Logout</string>
+
+    <!-- activity_login.xml -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- activity_main.xml -->
+
+    <!-- Additional from your message -->
+
+    <string name="welcome_to_dustbinpro">Welcome to DustbinPro</string>
+    <string name="book_a_cleaning">Book a Cleaning</string>
+    <string name="make_a_payment">Make a Payment</string>
+    <string name="amount_due_r0_00">Amount Due: R0.00</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="Payment_history">Payment History</string>
+    <string name="list_of_payments">List of payments</string>
+    <string name="book_cleaning_service">Book Cleaning Service</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="confirm_booking">Confirm Booking</string>
+
+    <string name="assign_worker_title">Assign Workers</string>
+        <string name="hint_customer_address">Enter customer address</string>
+        <string name="button_assign_worker">Assign Worker</string>
+    <string name="Make_a_payment">MAKE A PAYMENT</string>
+    <string name="status">Status</string>
+    <string name="date">Date</string>
+    <string name="amount_r0_00">Amount: R0.00</string>
+
+    <string name="joined">Joined: -</string>
+    <string name="emaiL">Email</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_bacK">Welcome Back</string>
+    <string name="sign_in_to_continuE">Sign in to continue</string>
+    <string name="eMail">Email</string>
+    <string name="passWord">Password</string>
+    <string name="forgot_passworD">Forgot Password?</string>
+    <string name="lOgin">Login</string>
+    <string name="don_t_have_an_accounT">Don\'t have an account?</string>
+    <string name="regisTer">Register</string>
+    <string name="create_account">create_account</string>
+    <string name="join_us_today">join_us_today</string>
+    <string name="already_have_account">already_have_account</string>
+    <string name="login_here">login_here</string>
+    <string name="TODO">TODO</string>
+    <string name="todO">TODO</string>
+    <string name="tOdo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="resend_verification_email">Resend Verification Email?</string>
+
+    <string name="Welcome_admin">Welcome Admin</string>
+    <string name="customers">Customers</string>
+    <string name="bookings">Bookings</string>
+    <string name="payments">Payments</string>
+    <string name="workers">Workers</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="admin_rockwaste_com">admin@rockwaste.com</string>
+    <string name="_0">0</string>
+    <string name="r0">R0</string>
+    <string name="_o">0</string>
+    <string name="_0_">0</string>
+    <string name="pending">🕒 Pending</string>
+    <string name="book123">#BOOK123</string>
+    <string name="customer">Customer</string>
+    <string name="location">Location</string>
+    <string name="_123_main_street">123 Main Street</string>
+    <string name="dustbin_cleaning_service">Dustbin Cleaning Service</string>
+    <string name="datE">Date</string>
+    <string name="dec_25_2023">Dec 25, 2023</string>
+    <string name="time">Time</string>
+    <string name="_09_00_am">09:00 AM</string>
+    <string name="update_your_status">Update Your Status</string>
+    <string name="update_status">Update Status</string>
+    <string name="directions">Directions</string>
+    <string name="contact">Contact</string>
+    <string name="report">Report</string>
+    <string name="this_task_is_awaiting_admin_review_once_approved_it_will_move_to_your_completed_tasks_history">This task is awaiting admin review. Once approved, it will move to your completed tasks history.</string>
+    <string name="john_doe">John Doe</string>
+    <string name="urgent">URGENT</string>
+    <string name="describe_your_issue">Describe your issue</string>
+    <string name="please_provide_detailed_information_about_your_issue">Please provide detailed information about your issue...</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="we_ll_contact_you_using_your_registered_email_and_phone_number">We\'ll contact you using your registered email and phone number.</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="other_ways_to_contact_us">Other Ways to Contact Us</string>
+    <string name="_27_12_345_6789">+27 12 345 6789</string>
+    <string name="support_rockwastemanagement_co_za">support@rockwastemanagement.co.za</string>
+    <string name="mon_fri_8_00_am_6_00_pm">Mon - Fri: 8:00 AM - 6:00 PM</string>
+    <string name="issue_type">Issue Type</string>
+    <string name="how_can_we_help_you">How can we help you?</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="customer_bookings">Customer Bookings</string>
+    <string name="no_bookings_found">No bookings found</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="bk123456">#BK123456</string>
+    <string name="dustbin_cleaning">Dustbin Cleaning</string>
+    <string name="special_request">Special Request</string>
+    <string name="TodO">TODO</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="r_120_00">R 120.00</string>
+    <string name="final_price">Final Price</string>
+    <string name="r_0_00">R 0.00</string>
+    <string name="pendinG">PENDING</string>
+    <string name="Pending">PENDING</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="set_price">Set Price</string>
+    <string name="delete">Delete</string>
+    <string name="enter_price">Enter price</string>
+    <string name="save">Save</string>
+    <string name="_123_main_street_city">123 Main Street, City</string>
+    <string name="dec_25_2023_at_08_00_am">Dec 25, 2023 at 08:00 AM</string>
+    <string name="_08_00_10_00">08:00-10:00</string>
+    <string name="todo">ToDO</string>
+    <string name="toDo">TODO</string>
+    <string name="no_customers_found">No customers found</string>
+    <string name="customer_lisT">Customer List</string>
+    <string name="role">Role</string>
+    <string name="usertype">UserType</string>
+    <string name="emaIl">Email</string>
+    <string name="namE">Name</string>
+    <string name="r_0">R 0</string>
+    <string name="view_customers">View Customers</string>
+    <string name="view_bookings">View Bookings</string>
+    <string name="view_payments">View Payments</string>
+    <string name="assign_workers">Assign Workers</string>
+
+
+</resources>

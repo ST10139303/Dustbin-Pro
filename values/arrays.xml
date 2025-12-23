@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Service Types -->
+    <string-array name="service_types">
+        <item>Dustbin Cleaning</item>
+        <item>Carpet Cleaning</item>
+        <item>Special Request</item>
+    </string-array>
+
+    <!-- Time Slots -->
+    <string-array name="time_slots">
+        <item>08:00 AM - 10:00 AM</item>
+        <item>10:00 AM - 12:00 PM</item>
+        <item>12:00 PM - 02:00 PM</item>
+        <item>02:00 PM - 04:00 PM</item>
+        <item>04:00 PM - 06:00 PM</item>
+    </string-array>
+
+    <!-- Worker Status Options -->
+    <string-array name="worker_status_options">
+        <item>Pending</item>
+        <item>Attending</item>
+        <item>Completed</item>
+    </string-array>
+
+    <!-- Issue Types -->
+    <string-array name="issue_types">
+        <item>Service Quality Issue</item>
+        <item>Billing/Payment Issue</item>
+        <item>Scheduling Problem</item>
+        <item>Worker Related</item>
+        <item>Technical Issue</item>
+        <item>Other</item>
+    </string-array>
+</resources>
